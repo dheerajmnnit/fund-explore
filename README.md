@@ -5,7 +5,7 @@
 vue create <project-name>
 ```
 
-Working demo deployed on heroku: https://peaceful-visvesvaraya-90e4e4.netlify.app/
+Working demo deployed on netlify: https://peaceful-visvesvaraya-90e4e4.netlify.app/
 
 ## Please follow these below steps to execute this project.
 
