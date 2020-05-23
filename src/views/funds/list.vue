@@ -58,7 +58,10 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-        <table class="table table-light table-bordered table-striped table-hover" v-if="pageItems.length">
+        <table
+          class="table table-light table-bordered table-striped table-hover"
+          v-if="pageItems.length"
+        >
           <thead>
             <tr>
               <th>S.No.</th>
@@ -348,9 +351,9 @@ export default {
 }
 
 .no-data {
-    display: flex;
-    justify-content: center;
-    color: red;
-    background-color: #fdfdfe;
+  display: flex;
+  justify-content: center;
+  color: red;
+  background-color: #fdfdfe;
 }
 </style>

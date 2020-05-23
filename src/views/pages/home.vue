@@ -11,7 +11,7 @@
         </h3>
         <br />
         <h5 class="text-center mt-4">
-          <router-link class="nav-link" exact to="/funds">Go to Funds List Page</router-link>
+          <router-link class="nav-link" exact to="/funds">Redirect to Fund Explore Page</router-link>
         </h5>
       </div>
     </div>

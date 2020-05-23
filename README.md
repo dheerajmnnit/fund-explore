@@ -1,5 +1,10 @@
 # fund-explore
 
+## Created project using 
+```
+vue create <project-name>
+```
+
 ## Please follow these below steps to execute this project.
 
 ## Project setup
