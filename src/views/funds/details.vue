@@ -109,7 +109,7 @@ export default {
         })
         .catch(error => {
           this.$Progress.fail();
-          console.log(error);
+          return error;
         });
     }
   }
